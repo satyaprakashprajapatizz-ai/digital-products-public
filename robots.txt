@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://satyaprakashprajapatizz-ai.github.io/digital-products-public/sitemap.xml
