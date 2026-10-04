@@ -7,7 +7,7 @@
 - WordPress WXR: generated
 - GitHub Pages role: publication/archive only
 - WordPress.com canonical monetized site: pending authentication
-- Payhip checkout verification: pending merchant authentication
+- Payhip checkout verification: 3/3 public product pages and Buy Now → checkout path verified in authenticated browser; Razorpay connected
 - Kit form verification: pending account authentication
 - Search Console verification: pending account/property authentication
 - Cleared revenue: not established
